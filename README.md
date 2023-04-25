@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deal Technologies as a Junior software architect.<br>🌱 I’m currently learning Angular
+🔭 I’m currently working on Deal Technologies as a Junior software architect.<br>🌱 I’m currently working with Angular
 
 
 ## 🌐 Socials:
